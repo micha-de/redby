@@ -1,0 +1,14 @@
+test:
+  redis:
+    server: 127.0.0.1
+    port: 6379
+    
+development:
+  redis:
+    server: 127.0.0.1
+    port: 6379
+    
+production:
+  redis:
+    server: 127.0.0.1
+    port: 6379
